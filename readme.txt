@@ -1,0 +1,3 @@
+O banco de dados foi modelado por mim para atender um cenárioo de e-commerce, organizando informações de clientes, produtos, fornecedores, pedidos, pagamentos, estoques e entregas. A lógica segue os seguintes princípios:Clientes, Produtos, Fornecedores,Pedidos, Pagamentos e Entregas. 
+
+Os relacionamentos entre as tabelas garantem integridade referencial, enquanto as constraints asseguram consistência, como a verificação de tipos de cliente e status de entrega. A modelagem suporta consultas para análise de dados, como listagens de produtos, rastreamento de pedidos e gerenciamento de estoques.
